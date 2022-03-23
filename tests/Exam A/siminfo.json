@@ -1,0 +1,31 @@
+{
+  "test": {
+    "name": "Exam A",
+    "class": "1Z",
+    "date": "17/03/2020",
+    "argument": "Quello che pare a me",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nPellentesque ac nulla id felis tristique convallis nec sed \npurus. Phasellus convallis, diam sit amet laoreet venenatis, \nenim justo scelerisque ligula, et tincidunt ligula orci et \narcu. Morbi mauris arcu, mattis ac diam eget, convallis \nsagittis eros. In id commodo quam, sed consectetur ante."
+  },
+  "students": [
+    "Alpha Tor",
+    "Carlo Ciampi",
+    "Centauri Rex",
+    "Crepo Rep",
+    "Omega Cles",
+    "Zanna Zani",
+    "Zorba Zeta"
+  ],
+  "questions": [
+    "Passo 1",
+    "Passo 2b",
+    "Passo 2a",
+    "Passo 3",
+    "Passo 4.1",
+    "Passo 4.2",
+    "Passo 5",
+    "Passo 4.5",
+    "Passo 3.2",
+    "Bonus 1",
+    "Bonus 2"
+  ]
+}
